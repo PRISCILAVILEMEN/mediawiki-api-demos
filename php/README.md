@@ -38,7 +38,7 @@ Code snippets in PHP demonstrating how to use various modules of the [MediaWiki 
 ### Page Operations
 * [API:Parse](https://www.mediawiki.org/wiki/API:Parse)
   *  [parse.php](parse.php): parse content of a page
-  * [API:Pageswithprop](https://www.mediawiki.org/wiki/API:Pageswithprop)
+* [API:Pageswithprop](https://www.mediawiki.org/wiki/API:Pageswithprop)
   *  [get_pageswithprop.php](pageswithprop.js): List all pages using a given page property.
 * [API:Categorymembers](https://www.mediawiki.org/wiki/API:Categorymembers)
   *  [get_category_items.php](get_category_items.php): list twenty items in a category
